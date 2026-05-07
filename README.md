@@ -1,4 +1,4 @@
-# llm-evals-showcase
+# llm-evals-fundamentals
 
 Un proyecto para aprender a evaluar aplicaciones LLM desde cero usando [deepeval](https://deepeval.com/).
 
